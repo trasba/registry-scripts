@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionAllowedTypes]
+"1"="theme"
+"2"="extension"
+"3"="user_script"
+"4"="hosted_app"
+"5"="legacy_packaged_app"
+"6"="platform_app"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallBlacklist]
+"1"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"DisablePluginFinder"=dword:00000000
+"SigninAllowed"=dword:00000001
+"SyncDisabled"=dword:00000000
+"PasswordManagerEnabled"=dword:00000001
+"ImportSavedPasswords"=dword:00000001
